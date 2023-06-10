@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+div{
+  background-color: black;
+  color:#1c9b1c;
+  font-size: 3rem;
+  width: 16rem;
+  height: 4rem;
+  border: 10px inset grey;
+  border-radius: 10px;
+  text-align: center;
+  padding: 6px 4px 2px 5px;
+  margin: 13rem 0px 0px 33rem;
+}
